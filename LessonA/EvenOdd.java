@@ -13,7 +13,7 @@ public class EvenOdd {
           oddCount++;
      }
      }
-     System.out.print("Even count: "+evenCount);
-     System.out.print("Odd count: "+oddCount);
+     System.out.println("Even count: "+evenCount);
+     System.out.println("Odd count: "+oddCount);
   }
 }
