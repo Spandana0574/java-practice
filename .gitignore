@@ -1,0 +1,25 @@
+# Compiled Java class files
+*.class
+
+# Java build output
+target/
+build/
+bin/
+out/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+*.key
+*.pem
